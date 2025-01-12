@@ -24,7 +24,7 @@ Participants will work on numerous projects under our guidance. Our skilled ment
 3. **Tag Maintainers**: Tag repository maintainers (mentioned in the README) if you encounter any problems.
 4. **Get Issue Assigned**: Wait for the issue to be assigned to you before starting your work.
 5. **Fork the Repository**: Create a branch for the issue you’re working on.
-6. **Submit Your Work**: Create a Pull Request (PR). It will be promptly reviewed, and suggestions will be provided if needed.
+6. **Submit Your Work**: Create a Pull Request (PR), **mentioning the issue no. and the changes made by you**. It will be promptly reviewed, and suggestions will be provided if needed.
 7. **Add Screenshots**: Attach screenshots to your PR to demonstrate your contribution.
 8. **Follow Repository Guidelines**: Each repository's README contains specific contribution guidelines.
 
