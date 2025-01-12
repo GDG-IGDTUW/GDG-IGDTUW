@@ -86,8 +86,8 @@ Participants who identify as women should mention their **pronouns** in their Gi
 Revolutionize the **Open Source domain** by contributing, inspiring, and empowering individuals at **GDG IGDTUW SnowScript Winter of Code**.
 
 
-#Join Us on [WhatsApp](https://chat.whatsapp.com/DDfkTqtyUKCKRy1CHX0T8s) to stay updated with the announcements.
-#Join Us on [Discord](https://discord.gg/FVUjEXVr) to stay connected with project mentors and contributors.
+- Join Us on [WhatsApp](https://chat.whatsapp.com/DDfkTqtyUKCKRy1CHX0T8s) to stay updated with the announcements. 
+- Join Us on [Discord](https://discord.gg/FVUjEXVr) to stay connected with project mentors and contributors.
 ---
 
 
