@@ -1,16 +1,93 @@
-## Hi there 👋
+![SnowScript Banner](https://github.com/GDG-IGDTUW/GDG-IGDTUW/blob/main/swoc.jpg)
 
-<!--
-**GDG-IGDTUW/GDG-IGDTUW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GDG IGDTUW SnowScript Winter of Code ❄️☃️
 
-Here are some ideas to get you started:
+GDG IGDTUW is thrilled to announce **SnowScript Winter of Code**, our very own open-source event! This program is the most extensive open-source initiative ever organized at IGDTUW, aimed at creating **learning opportunities for women in technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About GDG
+Google Developer Groups on Campus (GDG) is a community of developers backed by Google. Our mission is to solve local problems using Google technologies. 
+
+## 🎯 Event Objective
+We aim to:
+- Inspire, challenge, and motivate passionate innovators—especially women—to pursue their careers in **Open Source**.
+- Develop innovative solutions to address real-world challenges.
+
+Participants will work on numerous projects under our guidance. Our skilled mentors will nurture and polish your technical skills as you contribute to various projects **from the comfort of your home** during the contribution period.
+
+---
+
+## 💻 How to Contribute
+
+### Steps to Get Started:
+1. **Browse Projects**: Go through the projects listed on our website or GitHub repository and find one you feel comfortable contributing to.
+2. **Explore Issues**: Look at the existing issues of your selected project and find one that interests you. Alternatively, you can create issues on your own.
+3. **Tag Maintainers**: Tag repository maintainers (mentioned in the README) if you encounter any problems.
+4. **Get Issue Assigned**: Wait for the issue to be assigned to you before starting your work.
+5. **Fork the Repository**: Create a branch for the issue you’re working on.
+6. **Submit Your Work**: Create a Pull Request (PR). It will be promptly reviewed, and suggestions will be provided if needed.
+7. **Add Screenshots**: Attach screenshots to your PR to demonstrate your contribution.
+8. **Follow Repository Guidelines**: Each repository's README contains specific contribution guidelines.
+
+### Contribution Etiquette
+- **Be Respectful**: Avoid abusive language and ensure inclusivity.
+- **Eligibility for Prizes**: Mention your **full name** in your GitHub profile.
+
+---
+
+## 🗓️ Contribution Period
+- **Ends**: 15th February 2025 at 11:59 PM IST
+
+---
+
+## 📚 Resources to Get Started
+Here are some useful resources to help you learn Git and GitHub:
+- [How to Contribute to SnowScript Projects](https://github.com/SnowScriptWinterOfCode)
+- [Step-by-Step Contribution Guide](https://github.com/firstcontributions/first-contributions)
+- [Forking a Repo](https://youtu.be/SL5KKdmvJ1U)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
+- [Creating a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Watch Video: Getting Started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+
+Feel free to contact our project mentors on **[Discord](https://discord.gg/FVUjEXVr)** for any queries.
+
+---
+
+## 🏆 Prizes
+### Top 3 Contributors
+- Special Prize
+- Shoutouts on Social Media Handles
+- Certificate of Appreciation
+
+### Top 5 Female Contributors
+- Surprise Prize
+- Shoutouts on Social Media Handles
+- Certificate of Appreciation
+
+### Top 10 Contributors
+- Shoutouts on Social Media Handles
+- Exciting Goodies
+- Certificate of Appreciation
+
+### Top 25 Contributors
+- Exciting Goodies
+- Certificate of Appreciation
+
+### First Successful Pull Request
+- Certificate of Appreciation for all contributors 🎉
+
+---
+
+## ⚡ Special Note for Women Contributors
+Participants who identify as women should mention their **pronouns** in their GitHub profile to be eligible for women-only prizes.
+
+---
+
+## ❄️ Join Us Now!
+Revolutionize the **Open Source domain** by contributing, inspiring, and empowering individuals at **GDG IGDTUW SnowScript Winter of Code**.
+
+
+#Join Us on [WhatsApp](https://chat.whatsapp.com/DDfkTqtyUKCKRy1CHX0T8s) to stay updated with the announcements.
+#Join Us on [Discord](https://discord.gg/FVUjEXVr) to stay connected with project mentors and contributors.
+---
+
+
