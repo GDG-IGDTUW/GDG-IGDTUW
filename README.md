@@ -35,7 +35,8 @@ Participants will work on numerous projects under our guidance. Our skilled ment
 ---
 
 ## 🗓️ Contribution Period
-- **Ends**: 15th February 2025 at 11:59 PM IST
+- **Starts**: 18th January 2026 at 12:01 AM IST
+- **Ends**: 22nd February 2026 at 11:59 PM IST 
 
 ---
 
