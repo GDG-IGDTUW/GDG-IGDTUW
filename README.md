@@ -1,4 +1,4 @@
-![SnowScript Banner](https://github.com/GDG-IGDTUW/GDG-IGDTUW/blob/main/swoc.jpg)
+![WhatsApp Image 2026-01-12 at 10 12 52 PM](https://github.com/user-attachments/assets/e07a42ef-93fe-4adc-b6e1-f54cc393e4a9)![snowscript poster](https://github.com/user-attachments/assets/4da8d48d-5a6e-44d5-a9ae-98c865056ed3)
 
 # GDG IGDTUW SnowScript Winter of Code ❄️☃️
 
@@ -73,6 +73,10 @@ Feel free to contact our project mentors on **[Discord](https://discord.gg/FVUjE
 - Exciting Goodies
 - Certificate of Appreciation
 
+### Top 10 Blockchain Contributors
+- Exciting Blockchain themed prize
+- Certificate of Appreciation
+
 ### First Successful Pull Request
 - Certificate of Appreciation for all contributors 🎉
 
@@ -87,7 +91,7 @@ Participants who identify as women should mention their **pronouns** in their Gi
 Revolutionize the **Open Source domain** by contributing, inspiring, and empowering individuals at **GDG IGDTUW SnowScript Winter of Code**.
 
 
-- Join Us on [WhatsApp](https://chat.whatsapp.com/DDfkTqtyUKCKRy1CHX0T8s) to stay updated with the announcements. 
+- Join Us on [WhatsApp](https://chat.whatsapp.com/DAci48ElBXrAWtadPgHw63) to stay updated with the announcements. 
 - Join Us on [Discord](https://discord.gg/FVUjEXVr) to stay connected with project mentors and contributors.
 ---
 
