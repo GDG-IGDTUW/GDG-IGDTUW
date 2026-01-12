@@ -49,7 +49,7 @@ Here are some useful resources to help you learn Git and GitHub:
 - [Creating a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Watch Video: Getting Started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-Feel free to contact our project mentors on **[Discord](https://discord.gg/FVUjEXVr)** for any queries.
+Feel free to contact our project mentors on **[Discord](https://discord.gg/vwsMEn5DgM)** for any queries.
 
 ---
 
@@ -92,7 +92,7 @@ Revolutionize the **Open Source domain** by contributing, inspiring, and empower
 
 
 - Join Us on [WhatsApp](https://chat.whatsapp.com/DAci48ElBXrAWtadPgHw63) to stay updated with the announcements. 
-- Join Us on [Discord](https://discord.gg/FVUjEXVr) to stay connected with project mentors and contributors.
+- Join Us on [Discord](https://discord.gg/vwsMEn5DgM) to stay connected with project mentors and contributors.
 ---
 
 
