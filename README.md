@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-01-12 at 10 12 52 PM](https://github.com/user-attachments/assets/e07a42ef-93fe-4adc-b6e1-f54cc393e4a9)![snowscript poster](https://github.com/user-attachments/assets/4da8d48d-5a6e-44d5-a9ae-98c865056ed3)
+![snowscript poster](https://github.com/user-attachments/assets/4da8d48d-5a6e-44d5-a9ae-98c865056ed3)
 
 # GDG IGDTUW SnowScript Winter of Code ❄️☃️
 
