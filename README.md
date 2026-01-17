@@ -4,6 +4,8 @@
 
 GDG IGDTUW is thrilled to announce **SnowScript Winter of Code**, our very own open-source event! This program is the most extensive open-source initiative ever organized at IGDTUW, aimed at creating **learning opportunities for women in technology**.
 
+**Website:** [sswoc26.vercel.app](sswoc26.vercel.app)
+
 ## 🌟 About GDG
 Google Developer Groups on Campus (GDG) is a community of developers backed by Google. Our mission is to solve local problems using Google technologies. 
 
