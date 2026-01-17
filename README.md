@@ -95,4 +95,5 @@ Revolutionize the **Open Source domain** by contributing, inspiring, and empower
 - Join Us on [Discord](https://discord.gg/vwsMEn5DgM) to stay connected with project mentors and contributors.
 ---
 
+**Maintainer**: [Shriya Sandilya](https://github.com/soctopus2327)
 
